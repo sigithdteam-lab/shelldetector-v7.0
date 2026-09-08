@@ -2,7 +2,7 @@ GNU General Public License v3.0
 Copyright (C) 2026 sigithdteam-lab
 
 
-WebShell Detector Pro v7.0 adalah script bash canggih untuk mendeteksi web shell, malware, crypto miner, ransomware, dan phishing pada server web. Script ini menggunakan pendekatan hybrid signature-based dengan kemampuan auto-update pattern dari berbagai sumber terpercaya.
+WebShell Detector Pro v7.0 adalah script bash untuk mendeteksi web shell, malware, crypto miner, ransomware, dan phishing pada server web. Script ini menggunakan pendekatan hybrid signature-based dengan kemampuan auto-update pattern dari berbagai sumber terpercaya.
 
 ---
 
