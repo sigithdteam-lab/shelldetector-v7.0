@@ -1,0 +1,1 @@
+# shelldetector-v7.0
